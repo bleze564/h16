@@ -1,0 +1,9 @@
+.bg-box{
+    height: 625px;
+    width: 1350px;
+    background-color: green;
+    background-image:url(green-png-44873.png),url(ejik.webp),url(lamp-png-34914.png),url(home.webp),url(ponchik.png) ;
+    background-size: 200px , 40px , 40px , 400px, 50px;
+    background-repeat: repeat-x, repeat-y, repeat-x, no-repeat, repeat-y;
+    background-position: bottom, left, top, center, right;
+}
